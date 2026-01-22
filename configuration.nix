@@ -10,7 +10,7 @@
       (f /desktop.nix)                     # Desktop stuff
       (f /network.nix)                     # Network stuff
       (f /packages.nix)                    # Package installs
-      (f /hardware-configuration.nix)      # Auto-gen'ed hardware stuff
+      ./hardware-configuration.nix         # Auto-gen'ed hardware stuff
     ];
 
   # enable flakes & ???
