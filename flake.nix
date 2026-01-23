@@ -6,6 +6,7 @@
   };
 
   outputs = { self, nixpkgs, ... }@inputs: {
+    # Please replace my-nixos with your hostname
     nixosConfigurations.thinkpad = nixpkgs.lib.nixosSystem {
       modules = [
         ./configuration.nix
