@@ -9,6 +9,7 @@
     discord
     ocaml
     coq
+    coqide
     dafny
     lean4
     zed-editor
@@ -22,6 +23,11 @@
     bat
     eza
     delta
+    fish
+    htop
+    cmatrix
+    hugo
+    obsidian
   ];
 
 
