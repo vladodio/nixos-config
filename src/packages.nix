@@ -29,6 +29,7 @@
     hugo
     obsidian
     vscode
+    neofetch
   ];
 
 
