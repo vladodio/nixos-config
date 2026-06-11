@@ -9,7 +9,7 @@
     discord
     ocaml
     coq
-    coqide
+    coqPackages.stdlib
     dafny
     lean4
     zed-editor
@@ -28,6 +28,7 @@
     cmatrix
     hugo
     obsidian
+    vscode
   ];
 
 
